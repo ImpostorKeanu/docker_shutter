@@ -1,6 +1,8 @@
-# docker_shutter
+# Docker shutter
 
 Run shutter from a docker container because flameshot and friends are terrible
+
+Source: https://medium.com/@hholst80/docker-shutter-cdc42cb723df
 
 # Installation
 
