@@ -6,4 +6,4 @@ RUN apt-get update && \
 
 WORKDIR /data
 
-CMD shutter
+CMD /bin/bash -c shutter
